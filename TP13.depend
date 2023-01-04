@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1671203495 source:c:\users\acer\documents\tp13\main.cpp
+	<iostream>
+	"graph.h"
+
+1671202868 source:c:\users\acer\documents\tp13\graph.cpp
+	"graph.h"
+
+1671202860 c:\users\acer\documents\tp13\graph.h
+	<iostream>
+
